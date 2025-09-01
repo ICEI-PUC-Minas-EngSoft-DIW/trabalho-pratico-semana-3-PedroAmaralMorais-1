@@ -1,3 +1,96 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
-    background-color: aquamarine;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  background: #f4f4f4;
+  color: #333;
+}
+
+
+header {
+  background: #333;
+  color: #fff;
+  padding: 15px;
+}
+header h1 {
+  margin-bottom: 10px;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+main {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+
+.content {
+  flex: 3;
+}
+section {
+  margin-bottom: 20px;
+  background: #fff;
+  padding: 15px;
+  border-radius: 6px;
+}
+article {
+  margin-top: 20px;
+}
+
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 10px;
+  margin-top: 10px;
+}
+.gallery img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  background: #ddd;
+  object-fit: cover;
+}
+
+
+aside {
+  flex: 1;
+  background: #fff;
+  padding: 15px;
+  border-radius: 6px;
+}
+aside ul {
+  list-style: none;
+  margin-top: 10px;
+}
+aside li {
+  margin-bottom: 8px;
+}
+aside a {
+  color: #333;
+  text-decoration: none;
+}
+
+
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
 }

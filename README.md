@@ -8,15 +8,15 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Pedro Henrique Amaral Morais 
+- Matricula:904352
+- Proposta de projeto escolhida: 1. Pessoas e Produções
+- Breve descrição sobre seu projeto: Resolvi homenagear um amigo meu que adora a arte mas não sabe como divulgar seu trabalho
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img src="print1.jpg"> 
 
 
 ## Print da home-page criada
